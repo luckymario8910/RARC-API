@@ -2,7 +2,7 @@
 API of my architecture, RARC, from Turing Complete on steam. Read the API in the architecture file. It's very messy and un-organized.
 The actual terms come around at line 70. Remember that it's very non-understandable as I never really entered this project with a plan.
 
-# VIEW THIS IN CODE VIEW. ITS EVEN MORE MESSY WHEN IT ISN'T IN CODE VIEW.
+# VIEW THIS IN CODE VIEW. IT'S EVEN MORE MESSY WHEN IT ISN'T IN CODE VIEW.
 
 RARC ARCHITECTURE
 - Uses two RAMs along with an HDD to save and load values, along with doing operations on them.
